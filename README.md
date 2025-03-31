@@ -28,7 +28,7 @@ A base de dados contém informações históricas de preços de diversos produto
 | **MAPE** (Erro Percentual Absoluto Médio) | 34.8617% | **4.2231%** | LSTM |
 | **R²** (Coeficiente de Determinação) | **-0.1793** | **0.9452** | LSTM |
 
-### 🔍 **Análise dos Resultados**
+### **Análise dos Resultados**
 - O **LSTM teve um desempenho significativamente melhor** do que o Prophet em todas as métricas.
 - O **MAE** e o **RMSE** do LSTM são muito menores, indicando previsões mais próximas dos valores reais.
 - O **MAPE** do Prophet é alto (34,86%), enquanto o LSTM teve um **MAPE de apenas 4,22%**, indicando maior precisão.
